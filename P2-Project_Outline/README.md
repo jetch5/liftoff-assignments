@@ -24,4 +24,4 @@ deeper database structuring,
 ability to store images in SQL,
 and additional web functionality
 ### Project Tracker
-https://trello.com/johanx/boards
+https://trello.com/b/uBJ6XTRa/liftoff-project
