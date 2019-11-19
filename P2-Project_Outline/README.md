@@ -10,9 +10,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 MyBeat - online neighborhood to share the news like the newspapers of old... Post stories about the events in your neighborhood, township or city
 ### Features
 account creation;
-post, edit, & delete stories (text);
-post photos or images; And 
-ability find stories by geographic area
+post & delete stories (text);
 ### Technologies
 java, 
 springboot, 
@@ -21,7 +19,7 @@ MySQL
 ### What I'll Have to Learn
 ground up project development, 
 deeper database structuring,  
-ability to store images in SQL,
+translating python knowlege and experience into java application,
 and additional web functionality
 ### Project Tracker
 https://trello.com/b/uBJ6XTRa/liftoff-project
